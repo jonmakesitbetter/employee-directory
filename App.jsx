@@ -6,9 +6,9 @@ import Container from "./components/Container";
 function App() {
   return (
     <div>
-<Navbar />
+      <Navbar />
       <Container style={{ marginTop: 20 }}>
-<Cards />
+        <Cards />
       </Container>
     </div>
   );
